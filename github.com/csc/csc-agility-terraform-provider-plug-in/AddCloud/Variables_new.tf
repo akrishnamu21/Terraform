@@ -1,10 +1,10 @@
 variable "userid" {
     description="The Username of the Agility Platform"
-    default = "admin"
+    default = ""
 }
 variable "password" {
     description="The Username of the Agility Platform"
-    default = "M3sh@dmin!"
+    default = ""
 }
 variable "headcontainername" {
     description="The name of the Parent Container",
