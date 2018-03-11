@@ -1,0 +1,7 @@
+{
+    "AccessKey": “<Username>”,
+    "SecretKey": “<Password>”,
+    "MaxRetries": "2",
+    "APIURL": "https://<Agility_IP>/agility/api/v3.2/"
+}
+
