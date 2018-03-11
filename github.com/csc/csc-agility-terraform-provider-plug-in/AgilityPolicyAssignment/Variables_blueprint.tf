@@ -1,11 +1,11 @@
 variable "userid" {
     description="The Username of the Agility Platform"
-    default = "admin"
+    default = ""
 }
 
 variable "password" {
     description="The Username of the Agility Platform"
-    default = "M3sh@dmin!"}
+    default = ""}
 
 variable "project_name" {
   default = "SOE-RHEL-6.5"}
