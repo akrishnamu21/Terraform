@@ -1,6 +1,6 @@
 variable "userid" {
     description="The Username of the Agility Platform"
-    default = ""
+    default = "ashwini"
 }
 variable "password" {
     description="The Username of the Agility Platform"
